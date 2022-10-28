@@ -4,7 +4,7 @@ export default function Header() {
     return (
         <header>
             <nav className="nav-bar">
-                <img className="nav-img" src="./src/assets/react-logo.png" />
+                <img className="nav-img" src="./src/react-logo.png" />
                 <ul className="nav-items">
                     <li>Pricing</li>
                     <li>About</li>
